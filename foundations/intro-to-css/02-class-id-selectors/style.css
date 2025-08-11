@@ -1,0 +1,24 @@
+p {
+    color: black;
+    background-color: rgb(247, 167, 167);
+    font-family: verdana, "DejaVu Sans", sans-serif;
+    
+}
+
+.n1{
+    font-size: x-small;
+}
+#n2{
+    color: blue;
+    font-size: x-large;
+    font-weight: 400;
+}
+.n3{
+    font-size: medium;
+}
+
+#n4{
+    background-color: palegreen;
+    font-weight: bold;
+}
+
