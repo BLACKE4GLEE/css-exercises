@@ -1,0 +1,15 @@
+.n1{
+    color: white;
+    background-color: black;
+    font-weight: 600;
+}
+
+.n2{
+    color: black;
+    background-color: yellow;
+}
+
+.n1, .n2{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', Times, sans-serif;
+}
